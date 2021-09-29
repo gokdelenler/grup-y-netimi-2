@@ -1,11 +1,8 @@
 # Channel Automation Bot 
 
-> A star ⭐ from you means a lot to us!
-
+> Bir yıldız ⭐ sizden bize çok şey ifade ediyor!
 
 Telegram bot to automate and manage channels.
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## Usage
 
